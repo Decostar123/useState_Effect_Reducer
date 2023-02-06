@@ -1,0 +1,16 @@
+button{
+    /* min-width: 2rem ;  */
+    width  : 4rem ; 
+    height : 4rem ; 
+    background-color:  #b3ffff ;
+    border-radius: 15px;
+  box-shadow: 0 9px #999;
+    margin : 2rem ; 
+
+}
+button:active{
+    transform: translateY(4px);
+}
+span{
+    margin-left : 2rem ; 
+}
